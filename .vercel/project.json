@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_WopT0sybIC65VmAMHsnbrElUTPRG",
+  "orgId": "team_wrPZNgaOrGIKRa7uZAsXgom5",
+  "projectName": "myanslots.com",
+  "settings": {
+    "createdAt": 1775630338453,
+    "framework": null,
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
